@@ -1,0 +1,27 @@
+.download-button  {
+    position: absolute;
+    display: flex;
+    padding: 2px 2px;
+    background-color: #007bff;
+    color: rgb(0, 0, 0);
+    font-size: smaller;
+    text-decoration: none;
+    border-color: rgb(66, 115, 168);
+    border-radius:3px;
+    height: 30px;
+    margin:50px;
+    cursor:pointer;
+   }
+   .butn{
+    position: absolute;
+    display: flex;
+    cursor: pointer;
+    padding: 3px 20px;
+    margin: 82px;
+    border: 5px;
+    border-color: white;
+    border-radius: 5px ;
+    background-color: rgb(167, 167, 249);
+   
+
+}

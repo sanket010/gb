@@ -1,0 +1,40 @@
+.main{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    
+    
+}
+.title{
+    
+    margin: 80px 80px auto;
+     
+    
+    
+     color:  rgb(123, 211, 211);
+     
+     
+     
+
+}
+.bio{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    
+}
+.name{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:  rgb(123, 211, 211) solid;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+   -webkit-text-stroke-color:rgb(7, 7, 7);
+   -webkit-text-stroke-width: 1px;
+}
+
+
+
+   
+   

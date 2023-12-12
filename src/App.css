@@ -1,0 +1,56 @@
+@media screen {
+  .App {
+ 
+  min-width: 100%;
+  min-height: 100%;
+  
+  
+    background-color: rgb(255, 255, 255);
+    
+    box-sizing: border-box;
+    border:50px  solid rgb(31, 164, 253);
+   
+    
+  }
+ 
+}
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+.App-header {
+  
+  min-height: 40vh;
+  width: 100%;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: rgb(5, 4, 4);
+  background-image: url("bg-header.jpg");
+  image-resolution: 760px;
+  background-position: center;
+  background-size: cover;
+  
+ 
+}
+.App-body{
+  width: 100%;
+  
+  display: flex;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: rgb(5, 4, 4);
+}
+
+
+
+
+
+
